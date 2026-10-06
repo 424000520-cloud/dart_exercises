@@ -1,0 +1,8 @@
+Customer: Maddox
+Number of tickets: 2
+Ticket price: ₱250.00
+Student discount available: true
+Subtotal: ₱500.00
+Discount: ₱50.00
+Final total: ₱450.00
+Is the final total less than ₱1,000? true
